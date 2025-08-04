@@ -1,7 +1,7 @@
 # Text Editor
 
 <div style="text-align: center;">
-  <img src=".assets/app.png" width="" height="240" />
+  <img src=".assets/app.png"/>
 </div>
 
 Very simple text editor written in golang, just to solve the problem of text editors with efficient data structures, to handle:
