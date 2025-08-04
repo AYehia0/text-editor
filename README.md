@@ -1,9 +1,9 @@
 # Text Editor
 
-<video height="480" width="640" controls>
-  <source src="./.assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center;">
+  <img src=".assets/app.png" width="" height="240" />
+</div>
+
 Very simple text editor written in golang, just to solve the problem of text editors with efficient data structures, to handle:
 - Large files
 - Inserting and deleting text: in middle of the file, at the end of the file, at the beginning of the file
